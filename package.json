@@ -1,0 +1,17 @@
+{
+  "name": "prueba_4kids",
+  "version": "1.0.0",
+  "description": "Prueba backen 4kids",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sdelosrios",
+  "license": "ISC"
+}
